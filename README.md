@@ -10,4 +10,4 @@ Mid Priority (Do it before my time wasted)
 
 Low Priority (If you have spare time)
 - Complete Any CapCupt Tutorial
-- 5 Boost Your BRAINPOWER
+- Read Introduction and 5 different sections intro from Boost Your BRAINPOWER
