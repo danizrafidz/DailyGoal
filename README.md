@@ -1,1 +1,13 @@
-# DailyGoal
+# DailyGoal - Saturday, 8/12/2024 
+[CP: ✅]
+Top Priority (MUST DO)
+- 1 round Jogging on morning
+- Assignment: Class project 09 - Your Amazing Creature
+- Make note of Part 2 Microsoft C# from Module 1 to Module 4, recap it as well with "Triple Rungs Technique".
+
+Mid Priority (Do it before my time wasted)
+- Watch exactly 5 Justin Sungs Video (Could be repeated)
+
+Low Priority (If you have spare time)
+- Complete Any CapCupt Tutorial
+- 5 Boost Your BRAINPOWER
